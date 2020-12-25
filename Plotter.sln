@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotter", "Plotter\Plotter.csproj", "{5838B84D-FFEF-444E-9B02-6B86A020EDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Debug|x86.ActiveCfg = Debug|x86
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Debug|x86.Build.0 = Debug|x86
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Release|x86.ActiveCfg = Release|x86
+		{5838B84D-FFEF-444E-9B02-6B86A020EDD7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472235B0-CFC2-43A1-9866-F1C4AAFF4B94}
+	EndGlobalSection
+EndGlobal
